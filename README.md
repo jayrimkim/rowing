@@ -4,12 +4,13 @@
 <br/>
 ### 프로젝트 개요
 ![스크린샷](https://user-images.githubusercontent.com/79407445/108878098-3f311600-7643-11eb-8860-f3e8ce1068fe.png)
+<br/>
 헬스 엔터테인먼트 로잉머신 기반 AR, VR 어플리케이션을 V/AR 글래스와 어깨 스피커와 함께 사용하여 생동감 넘치는 운동 환경을 제공한다.
 
 
-작동 영상
+작동 영상<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wL7urCvdEwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/>
 본 프로젝트는 V/AR 글래스 + 어깨 스피커 + 위치 센서(스마트 밴드 SDK 활용) + 시뮬레이션 엔진(Unity) + 5G + 로잉머신의 조합으로 AR 기반의 헬스 엔터테인먼트 조합으로 구성된다.
 
 ![설계도](https://user-images.githubusercontent.com/79407445/108876850-017fbd80-7642-11eb-9a0a-7e25f47f9eaf.png)
