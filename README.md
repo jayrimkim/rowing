@@ -1,14 +1,14 @@
 ## V/AR 글래스와 어깨 스피커를 이용한 로잉머신 솔루션/한이음 멘토링 팀 프로젝트
 팀 프로젝트로, <b>서버와 웹사이트,출석</b>을 담당했습니다. 
-
+<br/>
+<br/>
 ### 프로젝트 개요
 ![스크린샷](https://user-images.githubusercontent.com/79407445/108878098-3f311600-7643-11eb-8860-f3e8ce1068fe.png)
 헬스 엔터테인먼트 로잉머신 기반 AR, VR 어플리케이션을 V/AR 글래스와 어깨 스피커와 함께 사용하여 생동감 넘치는 운동 환경을 제공한다.
 
 
 작동 영상
-
-https://youtu.be/wL7urCvdEwQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wL7urCvdEwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 본 프로젝트는 V/AR 글래스 + 어깨 스피커 + 위치 센서(스마트 밴드 SDK 활용) + 시뮬레이션 엔진(Unity) + 5G + 로잉머신의 조합으로 AR 기반의 헬스 엔터테인먼트 조합으로 구성된다.
 
