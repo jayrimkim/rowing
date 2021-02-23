@@ -7,7 +7,8 @@
 
 
 작동 영상
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wL7urCvdEwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/wL7urCvdEwQ
 
 본 프로젝트는 V/AR 글래스 + 어깨 스피커 + 위치 센서(스마트 밴드 SDK 활용) + 시뮬레이션 엔진(Unity) + 5G + 로잉머신의 조합으로 AR 기반의 헬스 엔터테인먼트 조합으로 구성된다.
 
